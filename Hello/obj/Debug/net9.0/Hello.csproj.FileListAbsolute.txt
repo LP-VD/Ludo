@@ -1,0 +1,14 @@
+/Users/pjd/Desktop/Code/C#/Hello/bin/Debug/net9.0/Hello
+/Users/pjd/Desktop/Code/C#/Hello/bin/Debug/net9.0/Hello.deps.json
+/Users/pjd/Desktop/Code/C#/Hello/bin/Debug/net9.0/Hello.runtimeconfig.json
+/Users/pjd/Desktop/Code/C#/Hello/bin/Debug/net9.0/Hello.dll
+/Users/pjd/Desktop/Code/C#/Hello/bin/Debug/net9.0/Hello.pdb
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.AssemblyInfoInputs.cache
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.AssemblyInfo.cs
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.csproj.CoreCompileInputs.cache
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.dll
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/refint/Hello.dll
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.pdb
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/Hello.genruntimeconfig.cache
+/Users/pjd/Desktop/Code/C#/Hello/obj/Debug/net9.0/ref/Hello.dll
